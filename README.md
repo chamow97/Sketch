@@ -1,6 +1,6 @@
-#Sketch
-##A script to convert an image to pencil sketch. Attached code below and thanks to FreeCodeCamp(https://medium.freecodecamp.org/sketchify-turn-any-image-into-a-pencil-sketch-with-10-lines-of-code-cf67fa4f68ce) for the idea.
-#Code
+# Sketch
+## A script to convert an image to pencil sketch. Attached code below and thanks to FreeCodeCamp(https://medium.freecodecamp.org/sketchify-turn-any-image-into-a-pencil-sketch-with-10-lines-of-code-cf67fa4f68ce) for the idea.
+# Code
 
 ```python
 import imageio
